@@ -1,3 +1,5 @@
+#American Sign Language Detection System
+
 American Sign Language Recognition System is a web application that automatically detects the fingerspelling gestures signed by the user.
 
 This application will have a webpage that will stream the live video captured from the user’s webcam. In this real-time video, a blue box will be present, inside of which the user is expected to sign the alphabet they want to be interpreted. 

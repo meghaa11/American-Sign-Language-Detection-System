@@ -1,4 +1,4 @@
-#American Sign Language Detection System
+# American Sign Language Detection System
 
 American Sign Language Recognition System is a web application that automatically detects the fingerspelling gestures signed by the user.
 
